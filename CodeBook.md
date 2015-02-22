@@ -18,7 +18,7 @@ Variables:
 ==========
 There are 81 variables:
 
-Variable #1
+<b>Variable #1</b>
 
 Variable Name: "Activity"
 
@@ -26,7 +26,7 @@ Variable Type: character
 
 Explanation: one of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by Subject 
 
-Variable #2
+<b>Variable #2</b>
 
 Variable Name: "Subject"
 
@@ -34,7 +34,7 @@ Variable Type: integer
 
 Explanation: id of one of 30 volunteers
 
-Variables #3-81. (Summarized for simplicity)
+<b>Variables #3-81</b> (Summarized for simplicity)
 
 Variable Names:
 
