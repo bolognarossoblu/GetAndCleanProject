@@ -16,7 +16,7 @@ Other files:
 
 Note:
 =====
-In order the run the script, unzip the project file (getdata-projectfiles-UCI HAR Dataset.zip) in the same directory of the script. Leave the folder names unchanged.
+In order to run the script, unzip the project file (getdata-projectfiles-UCI HAR Dataset.zip) in the same directory of the script. Leave the folder names unchanged.
 
 How the script works:
 =====================
