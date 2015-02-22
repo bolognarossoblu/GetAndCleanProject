@@ -16,15 +16,12 @@ How the script works:
 =====================
 
 The script implements the following steps as stated in the project description:
+
 "
 1. Merges the training and the test sets to create one data set.
-
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
-
 3. Uses descriptive activity names to name the activities in the data set
-
-4. Appropriately labels the data set with descriptive variable names. 
-
+4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 "
 
@@ -38,7 +35,7 @@ The number of columns could have been lower if instances of "meanreq", for examp
 In order to summarize the final data set, the group_by() and summarise_each() functions from package dplyr were used. This kept the number of columns unaltered and the number of observations lowered from 10299 to 180.
 
 3. Appropriately named variables:
-	a. The "Activity" and "Subject" variables were labeled. 
+	a. The "Activity" and "Subject" variables were labeled.
 	b. The name of the variables for the measurements were cleaned as follows:
 		i. "()"s were replaced with "."s
 		ii. "-"s were replaced with "."
