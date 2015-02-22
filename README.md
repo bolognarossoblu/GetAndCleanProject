@@ -38,11 +38,11 @@ In order to summarize the final data set, the group_by() and summarise_each() fu
    
    	B. The name of the variables for the measurements were cleaned as follows:
    	
-   		-"()"s were replaced with "."s
+   		- "()"s were replaced with "."s
    		
-   		-"-"s were replaced with "."
+   		- "-"s were replaced with "."
    		
-   		-"."s at the end of the name were removed
+   		- "."s at the end of the name were removed
 
 4. The script creates "tidy_data_set.txt", which is an output of the tidy data set after Step 5 of the project requirements.
 
