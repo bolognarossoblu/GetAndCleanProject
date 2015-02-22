@@ -1,19 +1,15 @@
-=================
-CODEBOOK
-Course Project
-February 22, 2015
-=================
-
 Introduction:
 =============
 Codebook prepared for the course project tidy data set. The tidy data set is entirely built from data from the following publication [1]:
+
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
 The tidy data set contains 180 observations (rows) of 81 variables (columns).
 
 
 Tidy data set:
 ==============
-The resulting data set from the script fulfills the tiny data concept by: 
+The resulting data set from the script fulfills the tiny data concept by:
 - Having clear column names that allow the variables to be identified
 - Having only one variable per column
 - Having only one column per variable
