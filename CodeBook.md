@@ -19,17 +19,21 @@ Variables:
 There are 81 variables:
 
 1.
+
 Variable Name: "Activity"
 Variable Type: character
 Explanation: one of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by Subject 
 
 2.
+
 Variable Name: "Subject"
 Variable Type: integer
 Explanation: id of one of 30 volunteers
 
 3-81. (Summarized for simplicity)
+
 Variable Names:
+
 [3]  "tBodAcc.mean.X"             "tBodAcc.mean.Y"            
 [5]  "tBodAcc.mean.Z"             "tBodAcc.std.X"              "tBodAcc.std.Y"              "tBodAcc.std.Z"             
 [9]  "tGravityAcc.mean.X"         "tGravityAcc.mean.Y"         "tGravityAcc.mean.Z"         "tGravityAcc.std.X"         
@@ -51,7 +55,9 @@ Variable Names:
 [73] "fBodBodAccJerkMag.mean"     "fBodBodAccJerkMag.std"      "fBodBodAccJerkMag.meanreq"  "fBodBodGyroMag.mean"       
 [77] "fBodBodGyroMag.std"         "fBodBodGyroMag.meanreq"     "fBodBodGyroJerkMag.mean"    "fBodBodGyroJerkMag.std"    
 [81] "fBodBodGyroJerkMag.meanreq"
+
 Variable Type: double
+
 Explanation: an explanation of these variables can be found in the features_info.txt file included in the data set getdata-projectfiles-UCI HAR Dataset.zip.
 
 
